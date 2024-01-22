@@ -4,3 +4,5 @@
 3. syntax for readme
 4.   1. similar to html
      2. <br> : next line -  br
+5. checking for git status
+
